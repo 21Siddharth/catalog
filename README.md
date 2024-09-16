@@ -1,6 +1,9 @@
 # catalog
 
-To run
+#To run
+To run the code, ensure you have the following installed on your system:
+
+Node.js (version 14 or higher)
 
 1. node first.js 
 Output - 
